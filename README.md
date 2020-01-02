@@ -1,7 +1,9 @@
 # RNA_stuff  
 In this README you can find diverse information about typical RNA sites, meetings, tools, databases, etc.
 
-Please, feel free to improve and add informatition.
+I also leave you copy (in spanish) of my degree final work that was about [*Conformational diversity in RNAs*](MGB_degree_final_work.pdf).
+
+Please, feel free to improve and add information.
 
 ## RNA typical web-sites
 * [The RNA society site](https://www.rnasociety.org/), and their [twitter](https://twitter.com/rnasociety)
