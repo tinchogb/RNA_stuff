@@ -40,9 +40,9 @@ Please, feel free to improve and add informatition.
   * [RNA basepair database](http://hdrnas.saha.ac.in/rnabpdb/)
   * [RNABP COGEST](http://bioinf.iiit.ac.in/RNABPCOGEST/) (has another links basepair databases inside)
 * **Others**
- * [NCRNA Databases](https://ncrnadatabases.org/)
- * [3D RNA rotamers](http://kinemage.biochem.duke.edu/research/rnarotamer.php) (Richardsons Lab)
- * [Chemical mapping data](https://rmdb.stanford.edu/)
+  * [NCRNA Databases](https://ncrnadatabases.org/)
+  * [3D RNA rotamers](http://kinemage.biochem.duke.edu/research/rnarotamer.php) (Richardsons Lab)
+  * [Chemical mapping data](https://rmdb.stanford.edu/)
 
 ## Groups:
 * [Bujnicki](http://genesilico.pl/) (one of the best, has softwares, databases, etc)
